@@ -1,0 +1,2 @@
+For reference only. If build.gradle is missing, create it with:
+plugins { id 'com.android.application' version '8.5.2' apply false }
